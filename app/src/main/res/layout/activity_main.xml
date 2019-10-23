@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/fruitTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:inputType="text"
+        android:hint="List your fruit here"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/descriptionTitle"
+        android:layout_margin="2dp"
+        android:padding="10dp"
+        android:inputType="numberDecimal"
+        android:hint="List your price here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"/>
+
+    <Button
+        android:id="@+id/saveButton"
+        android:text="Save"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/showListButton"
+        android:text="Show"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

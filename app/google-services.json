@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95472828654",
+    "firebase_url": "https://fruitlistdatabaseapp.firebaseio.com",
+    "project_id": "fruitlistdatabaseapp",
+    "storage_bucket": "fruitlistdatabaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95472828654:android:683d3e5bac85d9075ff3ff",
+        "android_client_info": {
+          "package_name": "com.example.fruitlistdatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95472828654-f990ca6sppbn5kbo8jrto93ch2qfm2jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitlistdatabaseapp",
+            "certificate_hash": "f67e98dd469211f3d8e0a101157180e91a5e71c4"
+          }
+        },
+        {
+          "client_id": "95472828654-3g6fs48s8b9jt9j8hvrb4sj0t85i40vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8YauHow8tXD_BxBa6rrp_ot6hQLKNC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95472828654-3g6fs48s8b9jt9j8hvrb4sj0t85i40vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
