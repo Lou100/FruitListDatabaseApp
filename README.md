@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-This FruitListDatabaseApp allows the user to display and store information in input text feilds inside the database and the information then can be called inside a displayed list. This app is perfect for making a grocery shopping list or a todo list and everything in between. Once data is stored it can only be modified by the database administrator.
+This FruitListDatabaseApp allows the user to display and store information in input text feilds inside the database and the information then can be called inside a displayed list. This app is perfect for making a grocery shopping list. However, Once data is stored it can only be modified by the database administrator.
 
 # Getting Started
 
